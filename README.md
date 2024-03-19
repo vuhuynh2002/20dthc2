@@ -1,11 +1,10 @@
-<<<<<<< HEAD
+
 
 # Bài tập nhóm
 =======
 https://github.com/vuhuynh2002/20dthc2/issues/1#issue-2194172971
-![Ảnh đại diện](https://github.com/vuhuynh2002/20dthc2/blob/master/94563fbef08ea849966b6c09b20ebb79.jpg)
-# CV cá nhân
->>>>>>> 54a1243c41fb2e876f9ab137d6839b39246fb580
+
+
  
 ## Thông tin
 * Khoa: công nghệ thông tin
